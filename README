@@ -1,0 +1,1 @@
+これは、Android NDK でneon命令を利用するためのサンプルコード。inline asm や asm_neon.hを利用して4x4行列同士の乗算を行うサンプルを作成してみた。
